@@ -28,9 +28,10 @@ A simple and interactive number guessing game built as part of Jonas Schmedtmann
 
 ## Screenshots
 
-![Guess My Number Screenshot](./screenshot.png)
+![image (5)](https://github.com/user-attachments/assets/c646a3cf-cbb2-47a5-9598-a6bb0bd09416)
+![image (6)](https://github.com/user-attachments/assets/20e9bf04-9ef2-442b-a393-1d3ee970c050)
 
 
 ## Demo
 
-You can check out the live demo [here](#)
+You can check out the live demo [here](https://mamdoh-guess-my-number.netlify.app/)
